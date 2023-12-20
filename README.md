@@ -51,4 +51,4 @@ Welcome to the Music Store Database Management System, a comprehensive SQL proje
 * PgAdmin4
 
 Schema- Music Store Database  
-![MusicDatabaseSchema]([https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png](https://github.com/sohellmaxx/Music_Store_Database/blob/main/MusicDatabaseSchema.png)https://github.com/sohellmaxx/Music_Store_Database/blob/main/MusicDatabaseSchema.png)
+![MusicDatabaseSchema](https://github.com/sohellmaxx/Music_Store_Database/blob/main/MusicDatabaseSchema.png)
