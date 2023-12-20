@@ -41,9 +41,9 @@ Welcome to the Music Store Database Management System, a comprehensive SQL proje
 ## Getting Started
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/music-store-database.git
-   cd music-store-database
+   
+   [git clone https://github.com/yourusername/music-store-database.git
+   cd music-store-database](https://github.com/sohellmaxx/Music_Store_Database)
 
 
 ## Database and Tools
